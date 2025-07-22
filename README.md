@@ -7,12 +7,16 @@ Application Vue.js permettant d'ajouter et de suivre des indices boursiers
 - localStorage pour conserver les données des indices sauvegardee.
 
 ## Lancer le projet
-1. Installer les dépendances sur bash :
+1. Installer les dépendances avec bash :
+2. ```bash
    npm install
-2. lancer le serveur Back
+3. lancer le serveur Back
+4. ```bash
    cd backend/
+   ```bash
    npm start
-3. lancer le Front
+5. lancer le Front
+6. ```bash
    (dans le dossier front)
    npm run dev
    
