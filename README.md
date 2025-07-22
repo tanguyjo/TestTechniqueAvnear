@@ -10,13 +10,13 @@ Application Vue.js permettant d'ajouter et de suivre des indices boursiers
 1. Installer les dépendances avec bash :
  ```bash
    npm install
-2. lancer le serveur Back
-  ```bash
+2. lancer le serveur Back:
+ 
    cd backend/
-   ```bash
+
    npm start
-3. lancer le Front (aller dans le dossier front)
- ```bash
+3. lancer le Front (aller dans le dossier front) :
+
    npm run dev
    
 ## Fonctionnalités terminées
